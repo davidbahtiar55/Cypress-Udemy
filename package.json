@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/davidbahtiar55/Cypress-Allure#readme",
   "devDependencies": {
-    "cypress": "^9.6.0"
+    "cypress": "^9.6.0",
+    "cypress-xpath": "^2.0.1"
   }
 }
